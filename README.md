@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arashi Hideyoshi. Japanese IT developer.
-- 👀 I’m interested in Blockchain technology.
+- 👀 I’m interested in Blockchain technology and NFT Art.
 - 🌱 I’m currently learning Cardano and Terra.
 - 💞️ I’m looking to collaborate on those who are keen-eyed on cutting-edge technology.
 - 📫 My mail address is ruby199129@gmail.com.
